@@ -17,6 +17,6 @@ templates:
 - {name: Newbie-Viper-Generamba-Template}
 ```
 
-3. Run generamba template install. All the templates will be placed in the '/Templates' folder of your current project.
+3. Run ```generamba template install```. All the templates will be placed in the '/Templates' folder of your current project.
 
-4. Run generamba gen [MODULE_NAME] Newbie-Viper-Generamba-Template - It creates module with specific name from specific template.
+4. Run ```generamba gen [MODULE_NAME] Newbie-Viper-Generamba-Template``` - It creates module with specific name from specific template.
